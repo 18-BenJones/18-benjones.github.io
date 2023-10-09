@@ -26,3 +26,22 @@
     color: white;
   }
   
+  p {
+    background-color: #323232;
+    width: 600px;
+    position: relative;
+    left: 660px; 
+    color: white;
+    text-align: center;
+
+  }
+
+  h {
+    background-color: #323232;
+    width: 600px;
+    position: relative;
+    left: 660px; 
+    color: white;
+    text-align: center;
+    font-size: larger;
+  }
