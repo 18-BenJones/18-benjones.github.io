@@ -14,18 +14,19 @@
     font-size: 17px;
   }
 
-    /* Add a color to the active/current link */
+    /*Add a colour to the active link*/
     .topnav a.active {
       background-color: #10B0F5;
       color: white;
     }
   
-  /* Change the color of links on hover */
+  /*Change the colour of links on hover*/
   .topnav a:hover {
     background-color: #2FDDF8;
     color: white;
   }
   
+  /*Set the defualt styling for paragraphs*/
   p {
     background-color: #323232;
     width: 600px;
@@ -33,10 +34,11 @@
     left: 660px; 
     color: white;
     text-align: center;
-    border: 2px solid #2FDDF8;
-    border-radius: 25px
+    border: 1px solid #2FDDF8;
+    border-radius: 10px
   }
 
+  /*Set the defualt styling for headings*/
   h1 {
     background-color: #323232;
     width: 600px;
@@ -46,5 +48,5 @@
     text-align: center;
     font-size: larger;
     border: 2px solid #2FDDF8;
-    border-radius: 25px
+    border-radius: 10px
   }
